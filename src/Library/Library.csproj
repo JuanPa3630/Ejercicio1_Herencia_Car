@@ -21,9 +21,6 @@
     <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Ucu.Poo.DiscordPublisher" Version="[0.0.4,99.99.99)" />
   </ItemGroup>
 
